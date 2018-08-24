@@ -1,0 +1,18 @@
+INFO    2018-07-02 12:02:15,016 [main] com.capgemini.core.logging.Calculator  - divide method called
+DEBUG   2018-07-02 12:02:15,016 [main] com.capgemini.core.logging.Calculator  - div method called with arguments 12,2
+WARN    2018-07-02 12:02:15,016 [main] com.capgemini.core.logging.Calculator  - Attempting to div num1 by num2
+INFO    2018-07-02 12:03:16,794 [main] com.capgemini.core.logging.Calculator  - divide method called
+DEBUG   2018-07-02 12:03:16,794 [main] com.capgemini.core.logging.Calculator  - div method called with arguments 12,2
+WARN    2018-07-02 12:03:16,794 [main] com.capgemini.core.logging.Calculator  - Attempting to div num1 by num2
+INFO    2018-07-02 12:04:25,140 [main] com.capgemini.core.logging.Calculator  - divide method called
+DEBUG   2018-07-02 12:04:25,140 [main] com.capgemini.core.logging.Calculator  - div method called with arguments 12,2
+WARN    2018-07-02 12:04:25,140 [main] com.capgemini.core.logging.Calculator  - Attempting to div num1 by num2
+INFO    2018-07-02 12:04:41,195 [main] com.capgemini.core.logging.Calculator  - divide method called
+DEBUG   2018-07-02 12:04:41,195 [main] com.capgemini.core.logging.Calculator  - div method called with arguments 12,2
+WARN    2018-07-02 12:04:41,195 [main] com.capgemini.core.logging.Calculator  - Attempting to div num1 by num2
+INFO    2018-07-02 12:05:27,992 [main] com.capgemini.core.logging.Calculator  - divide method called
+DEBUG   2018-07-02 12:05:27,992 [main] com.capgemini.core.logging.Calculator  - div method called with arguments 12,2
+WARN    2018-07-02 12:05:27,992 [main] com.capgemini.core.logging.Calculator  - Attempting to div num1 by num2
+INFO    2018-07-02 12:05:39,711 [main] com.capgemini.core.logging.Calculator  - divide method called
+DEBUG   2018-07-02 12:05:39,711 [main] com.capgemini.core.logging.Calculator  - div method called with arguments 12,2
+WARN    2018-07-02 12:05:39,711 [main] com.capgemini.core.logging.Calculator  - Attempting to div num1 by num2
